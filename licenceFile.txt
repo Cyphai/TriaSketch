@@ -1,0 +1,91 @@
+Contrat 
+
+Le logiciel (telle que définie ci-dessous) est mise à disposition selon les termes du présent contrat. Le logiciel est protégée par le droit de la propriété littéraire et artistique (droit d'auteur, droits voisins, droits des producteurs de bases de données) ou toute autre loi applicable. Toute utilisation de Le logiciel autrement qu'explicitement autorisée selon ce Contrat ou le droit applicable est interdite.
+
+L'exercice, avec logiciel, de tout droit proposé par le présent contrat vaut acceptation de celui-ci. Selon les termes et les obligations du présent contrat, la partie Offrante propose à la partie Acceptante l'exercice de certains droits présentés ci-après, et l'Acceptant en approuve les termes et conditions d'utilisation.
+
+
+1. Définitions
+
+1.1. « Logiciel » : oeuvre de l'esprit protégeable par le droit de la propriété littéraire et artistique ou toute loi applicable et qui est mise à disposition selon les termes du présent Contrat.
+
+1.2. « Auteur original » : la ou les personnes physiques qui ont créé Le logiciel.1.2
+
+1.3. « Offrant » : la ou les personne(s) physique(s) ou morale(s) qui proposent la mise à disposition de Le logiciel selon les termes du présent Contrat.
+
+1.4. « Acceptant » : la personne physique ou morale qui accepte le présent contrat et exerce des droits sans en avoir violé les termes au préalable ou qui a reçu l'autorisation expresse de l'Offrant d'exercer des droits dans le cadre du présent contrat malgré une précédente violation de ce contrat.
+
+
+2. Exceptions aux droits exclusifs
+
+2.1. Aucune disposition de ce contrat n'a pour intention de réduire, limiter ou restreindre les prérogatives issues des exceptions aux droits, de l'épuisement des droits ou d'autres limitations aux droits exclusifs des ayants droit selon le droit de la propriété littéraire et artistique ou les autres lois applicables.
+
+
+3. Autorisation
+
+3.1. Vous avez le droit exclusif d'utiliser ce logiciel durant la période d'essai raisonnable.
+
+
+4. Restrictions
+
+4.1. Tous les droits d'auteur pour ce logiciel sont la propriété exclusive de l'auteur.
+
+4.2. Il vous est totalement interdit de redistribuer ou revendre ce logiciel, ou une version modifiée, sans l'autorisation de l'auteur original.
+
+4.3. Il vous est totalement interdit de décompiler ce logiciel sans en avoir reçu l'autorisation de l'auteur original.
+
+
+5. Garantie et exonération de responsabilité
+
+5.1. L'Offrant déclare de bonne foi qu'à sa connaissance et dans les limites d'une enquête raisonnable :
+
+5.2. L'Offrant a obtenu tous les droits sur ce logiciel nécessaires pour pouvoir autoriser l'exercice des droits accordés par le présent Contrat, et permettre la jouissance paisible et l'exercice licite de ces droits.
+
+5.3. A l'exception des situations expressément mentionnées dans le présent Contrat ou dans un autre accord écrit, ou exigées par la loi applicable, le logiciel est mise à disposition en l'état sans garantie d'aucune sorte, qu'elle soit expresse ou tacite, y compris à l'égard du contenu ou de l'exactitude du logiciel.
+
+
+
+6. Limitation de responsabilité. 
+
+A l'exception des garanties d'ordre public imposées par la loi applicable et des réparations imposées par le régime de la responsabilité vis-à-vis d'un tiers en raison de la violation des garanties prévues par l'article 5 du présent contrat, l'Offrant ne sera en aucun cas tenu responsable vis-à-vis de l'Acceptant, sur la base d'aucune théorie légale ni en raison d'aucun préjudice direct, indirect, matériel ou moral, résultant de l'exécution du présent Contrat ou de l'utilisation de Le logiciel, y compris dans l'hypothèse où l'Offrant avait connaissance de la possible existence d'un tel préjudice.
+
+
+
+7. Résiliation
+
+7.1. Tout manquement aux termes du contrat par l'Acceptant entraîne la résiliation automatique du Contrat et la fin des droits qui en découlent. Cependant, le contrat conserve ses effets envers les personnes physiques ou morales qui ont reçu de la part de l'Acceptant, en exécution du présent contrat. Les sections 1, 2, 5, 6 et 7 du contrat continuent à s'appliquer après la résiliation de celui-ci.
+
+7.2. Dans les limites indiquées ci-dessus, le présent Contrat s'applique pendant toute la durée de protection du logiciel selon le droit applicable. Néanmoins, l'Offrant se réserve à tout moment le droit d'exploiter le logiciel sous des conditions contractuelles différentes, ou d'en cesser la diffusion.
+
+
+8. Licences annexes
+
+Ce logiciel utilise plusieurs modules disponibles sur internet. Ces modules et les licences qui leurs sont associées sont les suivants : 
+
+- Ensembles d'icones : 
+    * Crystal Project : http://www.kde-look.org/content/show.php/Crystal+Project?content=60475  (LGPL)
+	* Mac4Lin : http://sourceforge.net/projects/mac4lin/ (LGPL)
+	* NuevoXT 2 : http://www.kde-look.org/content/show.php/nuoveXT+2?content=62630 (LGPL)
+	* Fairytale : http://fr.wikipedia.org/wiki/Utilisateur:Libellule_Bleue/Ic%C3%B4nes (LGPL)
+- Bibliothèque 
+    * Jung : http://jung.sourceforge.net/ (Jung BSD)
+    
+
+    
+
+Ces licences sont disponibles aux adresses suivantes : 
+ - http://www.gnu.org/licenses/lgpl.html (LGPL)
+ - http://jung.sourceforge.net/license.txt (Jung BSD)
+ 
+    
+De plus, est fourni avec ce logiciel la vers 1.6.10 de la machine virtuelle java fournit par Oracle (jre6). 
+
+L'Acceptant atteste avoir pris connaissance des textes suivants : 
+
+
+(Extrait de la licence du code binaire de la jre6 d'Oracle)
+"Use of the Commercial Features for any commercial or production purpose requires a separate license from Oracle.  Commercial Features means those features identified Table 1-1 (Commercial Features In Java SE Product Editions) of the Java SE documentation accessible at http://www.oracle.com/technetwork/java/javase/documentation/index.html"
+
+(Extrait de la licence BSD de Jung)
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
