@@ -1,2 +1,2 @@
 # TriaSketch
-AI built in Java
+AI built in Java 
