@@ -1,4 +1,4 @@
-package com.triades.gui;
+package com.triades.gui; 
 
 import com.triades.model.*;
 import com.triades.tools.IconLoader;
