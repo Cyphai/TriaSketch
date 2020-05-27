@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: .
+Main-Class: gui.MainFrame
+SplashScreen-Image: splashScreen.png
+
