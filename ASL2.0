@@ -1,7 +1,11 @@
 
                                  Apache License
                            Version 2.0, January 2004
+<<<<<<< HEAD
                         http://www.apache.org/licenses/
+=======
+                        http://www.apache.org/licenses/ 
+>>>>>>> b777bf3a324df9761f9e05491d4b9da0f5992897
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
