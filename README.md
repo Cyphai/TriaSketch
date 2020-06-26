@@ -1,2 +1,3 @@
 # TriaSketch 
-AI built in Java
+AI f
+rom law and work of Robert Michit
