@@ -1,2 +1,2 @@
 # TriaSketch 
-AI from law and work of Robert Michit
+AI from laws and work of Robert Michit
