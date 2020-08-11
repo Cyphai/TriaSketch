@@ -155,7 +155,14 @@ public class Element {
       return this.apparitionStep;
    }
 
-   public void setApparitionStep(int apparitionStep) {
+   public void setApparitionTransfer(int apparitiontransfer) {
       this.apparitionStep = apparitionStep;
+   }
+      public int getApparitionTransfer() {
+      return this.apparitionTransfer;
+   }
+
+   public void setApparitionTransfer(int apparitionTransfer) {
+      this.apparitionTransfer = apparitionTransfer;
    }
 }
